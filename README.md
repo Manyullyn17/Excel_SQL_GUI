@@ -38,6 +38,7 @@ If you'd like to modify or contribute to the source code, you can follow these i
    ```bash
    python main.py
    ```
+4. **Build `.exe` from Source Code:** If you're using PyCharm and have **pyinstaller** installed you can use the provided **build.bat** to build an `.exe` file that can be run without needing python installed. May need tweaking if you use a different environment or you can use pyinstaller to manually build it.
 
 ### Requirements
 - **Python 3.x** (tested with Python 3.13.2)
